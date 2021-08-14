@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map PropConfig
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PropConfig					KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin						KEYWORD2
+readValue					KEYWORD2
+readArray					KEYWORD2
+writeValue					KEYWORD2
+writeArray					KEYWORD2
+sectionExists				KEYWORD2
+startSectionScan			KEYWORD2
+getNextKey					KEYWORD2
+endSectionScan				KEYWORD2
+mapSections					KEYWORD2
+getFileRWPointer			KEYWORD2
+setFileRWPointer			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
