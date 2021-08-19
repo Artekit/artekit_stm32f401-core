@@ -20,7 +20,7 @@ propboard.build.variant=propboard_v1
 propboard.build.variant_system_lib=libstm32f4xx.a
 propboard.build.board=STM32F401_PROPBOARD
 
-wavetooeasy.name=Artekit Wavetooeasy
+wavetooeasy.name=Artekit WaveTooEasy
 wavetooeasy.upload.tool=avrdude
 wavetooeasy.upload.protocol=stk500v2
 wavetooeasy.upload.maximum_size=245760
